@@ -1,0 +1,7 @@
+![uname -a output](screenshots/uname.png)
+![lsb_release -a output](screenshots/lsb_release.png)
+![whoami output](screenshots/whoami.png)
+![uptime output](screenshots/uptime.png)
+![free -h output](screenshots/free.png)
+![df -h output](screenshots/df.png)
+![ip a output](screenshots/ip.png)
